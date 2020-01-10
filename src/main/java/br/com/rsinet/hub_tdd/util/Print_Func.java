@@ -14,9 +14,8 @@ public class Print_Func {
 
 		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
-			FileUtils.copyFile(src, new File("C:\\Users\\emers\\Desktop\\"
-					+ "Programação\\RSI\\workspace-hub-tdd\\ProjetoLoja\\screenshots\\" 
-					+ System.currentTimeMillis() + ".png"));
+			FileUtils.copyFile(src, new File("C:\\Users\\emerson.prado\\eclipse-toolsqa\\workspace-cucumber\\ProjetoLoja"
+					+ "\\screenshots\\"	+ System.currentTimeMillis() + ".png"));
 		}
 		catch (IOException e)
 		{
