@@ -1,0 +1,225 @@
+2020-01-14 15:22:15,097 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:22:15,097 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:22:15,097 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Register Test Case       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-14 15:22:15,097 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:22:15,097 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:22:20,139 INFO  [Log] 
+ComeÃ§ando Cadastro InvÃ¡lido 
+2020-01-14 15:22:20,172 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:22:22,862 INFO  [Log] escrevendo o username 
+2020-01-14 15:22:23,791 INFO  [Log] escrevendo o email 
+2020-01-14 15:22:24,171 INFO  [Log] escrevendo a senha 
+2020-01-14 15:22:24,679 INFO  [Log] escrevendo a confirmaÃ§Ã£o da senha 
+2020-01-14 15:22:24,977 INFO  [Log] escrevendo o nome 
+2020-01-14 15:22:25,207 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:22:25,544 INFO  [Log] escrevendo o nÃºmero de telefone 
+2020-01-14 15:22:25,774 INFO  [Log] Selecionando o paÃ­s 
+2020-01-14 15:22:26,046 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:22:26,526 INFO  [Log] escrevendo o endereÃ§o 
+2020-01-14 15:22:26,835 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:22:27,154 INFO  [Log] escrevendo o cÃ³digo postal 
+2020-01-14 15:22:27,387 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:22:27,580 INFO  [Log] clicando em registrar 
+2020-01-14 15:22:28,374 INFO  [Log] ComeÃ§ando Cadastro VÃ¡lido 
+2020-01-14 15:22:28,396 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:22:29,065 INFO  [Log] Clicando no link login 
+2020-01-14 15:22:29,906 INFO  [Log] clique em create account 
+2020-01-14 15:22:30,618 INFO  [Log] escrevendo o username 
+2020-01-14 15:22:31,305 INFO  [Log] escrevendo o email 
+2020-01-14 15:22:31,620 INFO  [Log] escrevendo a senha 
+2020-01-14 15:22:31,960 INFO  [Log] escrevendo a confirmaÃ§Ã£o da senha 
+2020-01-14 15:22:32,244 INFO  [Log] escrevendo o nome 
+2020-01-14 15:22:32,475 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:22:32,788 INFO  [Log] escrevendo o nÃºmero de telefone 
+2020-01-14 15:22:33,002 INFO  [Log] Selecionando o paÃ­s 
+2020-01-14 15:22:33,289 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:22:33,711 INFO  [Log] escrevendo o endereÃ§o 
+2020-01-14 15:22:33,959 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:22:34,236 INFO  [Log] escrevendo o cÃ³digo postal 
+2020-01-14 15:22:34,398 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:22:34,557 INFO  [Log] clicando em registrar 
+2020-01-14 15:22:34,591 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-14 15:22:45,549 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-14 15:22:45,550 INFO  [Log] X 
+2020-01-14 15:22:45,550 INFO  [Log] X 
+2020-01-14 15:22:45,550 INFO  [Log] X 
+2020-01-14 15:22:45,550 INFO  [Log] X 
+2020-01-14 15:25:37,328 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:25:37,328 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:25:37,328 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Register Test Case       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-14 15:25:37,328 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:25:37,328 INFO  [Log] **************************************************************************************** 
+2020-01-14 15:25:42,387 INFO  [Log] ComeÃ§ando Cadastro InvÃ¡lido 
+2020-01-14 15:25:42,429 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:25:46,425 INFO  [Log] escrevendo o username 
+2020-01-14 15:25:47,082 INFO  [Log] escrevendo o email 
+2020-01-14 15:25:47,384 INFO  [Log] escrevendo a senha 
+2020-01-14 15:25:47,767 INFO  [Log] escrevendo a confirmaÃ§Ã£o da senha 
+2020-01-14 15:25:48,068 INFO  [Log] escrevendo o nome 
+2020-01-14 15:25:48,379 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:25:48,713 INFO  [Log] escrevendo o nÃºmero de telefone 
+2020-01-14 15:25:48,952 INFO  [Log] Selecionando o paÃ­s 
+2020-01-14 15:25:49,329 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:25:50,191 INFO  [Log] escrevendo o endereÃ§o 
+2020-01-14 15:25:50,863 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:25:51,156 INFO  [Log] escrevendo o cÃ³digo postal 
+2020-01-14 15:25:51,326 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:25:51,461 INFO  [Log] clicando em registrar
+ 
+2020-01-14 15:25:52,302 INFO  [Log] ComeÃ§ando Cadastro VÃ¡lido 
+2020-01-14 15:25:52,336 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:25:53,280 INFO  [Log] Clicando no link login 
+2020-01-14 15:25:54,053 INFO  [Log] clique em create account 
+2020-01-14 15:25:54,702 INFO  [Log] escrevendo o username 
+2020-01-14 15:25:55,396 INFO  [Log] escrevendo o email 
+2020-01-14 15:25:55,816 INFO  [Log] escrevendo a senha 
+2020-01-14 15:25:56,343 INFO  [Log] escrevendo a confirmaÃ§Ã£o da senha 
+2020-01-14 15:25:56,726 INFO  [Log] escrevendo o nome 
+2020-01-14 15:25:57,073 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:25:57,399 INFO  [Log] escrevendo o nÃºmero de telefone 
+2020-01-14 15:25:57,612 INFO  [Log] Selecionando o paÃ­s 
+2020-01-14 15:25:57,893 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:25:58,407 INFO  [Log] escrevendo o endereÃ§o 
+2020-01-14 15:25:58,744 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:25:59,031 INFO  [Log] escrevendo o cÃ³digo postal 
+2020-01-14 15:25:59,189 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:25:59,333 INFO  [Log] clicando em registrar 
+2020-01-14 15:25:59,369 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-14 15:26:10,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-14 15:26:10,719 INFO  [Log] X 
+2020-01-14 15:26:10,720 INFO  [Log] X 
+2020-01-14 15:26:10,720 INFO  [Log] X 
+2020-01-14 15:26:10,720 INFO  [Log] X 
+2020-01-14 15:38:56,257 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-14 15:39:01,854 INFO  [Log] Começando Cadastro Inválido 
+2020-01-14 15:39:01,884 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:39:03,356 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:39:04,077 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:39:04,876 INFO  [Log] escrevendo o username 
+2020-01-14 15:39:05,467 INFO  [Log] escrevendo o email 
+2020-01-14 15:39:05,807 INFO  [Log] escrevendo a senha 
+2020-01-14 15:39:06,148 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:39:06,440 INFO  [Log] escrevendo o nome 
+2020-01-14 15:39:06,641 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:39:07,022 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:39:07,268 INFO  [Log] Selecionando o país 
+2020-01-14 15:39:07,550 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:39:08,343 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:39:08,662 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:39:08,957 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:39:09,119 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:39:09,241 INFO  [Log] clicando em registrar
+ 
+2020-01-14 15:39:10,122 INFO  [Log] Começando Cadastro Válido 
+2020-01-14 15:39:10,157 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:39:11,024 INFO  [Log] Clicando no link login 
+2020-01-14 15:39:11,051 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:39:11,708 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:39:11,762 INFO  [Log] clique em create account 
+2020-01-14 15:39:12,441 INFO  [Log] escrevendo o username 
+2020-01-14 15:39:13,294 INFO  [Log] escrevendo o email 
+2020-01-14 15:39:13,967 INFO  [Log] escrevendo a senha 
+2020-01-14 15:39:14,507 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:39:14,809 INFO  [Log] escrevendo o nome 
+2020-01-14 15:39:15,062 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:39:15,408 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:39:15,613 INFO  [Log] Selecionando o país 
+2020-01-14 15:39:15,906 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:39:16,450 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:39:16,783 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:39:17,090 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:39:17,254 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:39:17,415 INFO  [Log] clicando em registrar 
+2020-01-14 15:39:17,445 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-14 15:39:28,660 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-14 15:39:28,660 INFO  [Log] X 
+2020-01-14 15:39:28,660 INFO  [Log] X 
+2020-01-14 15:39:28,660 INFO  [Log] X 
+2020-01-14 15:39:28,660 INFO  [Log] X 
+2020-01-14 15:45:20,497 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-14 15:45:25,469 INFO  [Log] Começando Cadastro Inválido 
+2020-01-14 15:45:25,507 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:45:26,936 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:45:27,643 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:45:28,427 INFO  [Log] escrevendo o username 
+2020-01-14 15:45:29,132 INFO  [Log] escrevendo o email 
+2020-01-14 15:45:29,466 INFO  [Log] escrevendo a senha 
+2020-01-14 15:45:29,813 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:45:30,121 INFO  [Log] escrevendo o nome 
+2020-01-14 15:45:30,353 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:45:30,659 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:45:30,881 INFO  [Log] Selecionando o país 
+2020-01-14 15:45:31,171 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:45:31,694 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:45:32,262 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:45:32,555 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:45:32,720 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:45:32,861 INFO  [Log] clicando em registrar
+ 
+2020-01-14 15:45:33,676 INFO  [Log] Começando Cadastro Válido 
+2020-01-14 15:45:33,706 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:45:34,501 INFO  [Log] Clicando no link login 
+2020-01-14 15:45:34,573 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:45:35,259 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:45:35,314 INFO  [Log] clique em create account 
+2020-01-14 15:45:36,000 INFO  [Log] escrevendo o username 
+2020-01-14 15:45:36,665 INFO  [Log] escrevendo o email 
+2020-01-14 15:45:36,969 INFO  [Log] escrevendo a senha 
+2020-01-14 15:45:37,288 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:45:37,558 INFO  [Log] escrevendo o nome 
+2020-01-14 15:45:37,844 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:45:38,195 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:45:38,414 INFO  [Log] Selecionando o país 
+2020-01-14 15:45:38,689 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:45:39,193 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:45:39,505 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:45:39,794 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:45:39,982 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:45:40,179 INFO  [Log] clicando em registrar 
+2020-01-14 15:45:40,224 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-14 15:48:06,191 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-14 15:48:11,192 INFO  [Log] Começando Cadastro Válido 
+2020-01-14 15:48:11,225 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:48:12,412 INFO  [Log] Clicando no link login 
+2020-01-14 15:48:12,467 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:48:13,162 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:48:13,248 INFO  [Log] clique em create account 
+2020-01-14 15:48:13,838 INFO  [Log] escrevendo o username 
+2020-01-14 15:48:14,675 INFO  [Log] escrevendo o email 
+2020-01-14 15:48:14,983 INFO  [Log] escrevendo a senha 
+2020-01-14 15:48:15,301 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:48:15,594 INFO  [Log] escrevendo o nome 
+2020-01-14 15:48:15,801 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:48:16,232 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:48:16,453 INFO  [Log] Selecionando o país 
+2020-01-14 15:48:16,887 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:48:17,570 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:48:17,901 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:48:18,179 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:48:18,363 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:48:18,538 INFO  [Log] clicando em registrar 
+2020-01-14 15:48:18,570 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-14 15:48:29,477 INFO  [Log] Começando Cadastro Inválido 
+2020-01-14 15:48:29,513 INFO  [Log] Elemento Login encontrado 
+2020-01-14 15:48:30,751 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:48:31,470 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-14 15:48:32,767 INFO  [Log] escrevendo o username 
+2020-01-14 15:48:33,648 INFO  [Log] escrevendo o email 
+2020-01-14 15:48:34,129 INFO  [Log] escrevendo a senha 
+2020-01-14 15:48:34,862 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-14 15:48:35,411 INFO  [Log] escrevendo o nome 
+2020-01-14 15:48:35,913 INFO  [Log] escrevendo o sobrenome 
+2020-01-14 15:48:36,521 INFO  [Log] escrevendo o número de telefone 
+2020-01-14 15:48:36,805 INFO  [Log] Selecionando o país 
+2020-01-14 15:48:37,038 INFO  [Log] escrevendo o nome da cidade 
+2020-01-14 15:48:37,513 INFO  [Log] escrevendo o endereço 
+2020-01-14 15:48:37,837 INFO  [Log] escrevendo o nome do estado 
+2020-01-14 15:48:38,138 INFO  [Log] escrevendo o código postal 
+2020-01-14 15:48:38,365 INFO  [Log] aceitando a checkbox de termos 
+2020-01-14 15:48:38,552 INFO  [Log] clicando em registrar
+ 
+2020-01-14 15:48:39,741 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-14 15:48:39,741 INFO  [Log] X 
+2020-01-14 15:48:39,741 INFO  [Log] X 
+2020-01-14 15:48:39,741 INFO  [Log] X 
+2020-01-14 15:48:39,741 INFO  [Log] X 
