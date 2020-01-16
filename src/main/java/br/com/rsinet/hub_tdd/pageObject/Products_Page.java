@@ -4,15 +4,17 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import br.com.rsinet.hub_tdd.util.Constant;
+import br.com.rsinet.hub_tdd.util.ExcelUtils;
 import br.com.rsinet.hub_tdd.util.Log;
 
 public class Products_Page {
 	
 	public static WebElement element;
 	
-	public static WebElement lnk_Tablet(WebDriver driver) {
+	public static WebElement lnk_Tablet(WebDriver driver) throws Exception {
 		
-		element = driver.findElement(By.linkText("HP ElitePad 1000 G2 Tablet"));
+		element = driver.findElement(By.linkText(ExcelUtils.getCellData(1, Constant.Col_Product)));
 		
 		Log.info("Produto Tablet encontrado");
 		

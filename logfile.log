@@ -223,3 +223,503 @@ ComeÃ§ando Cadastro InvÃ¡lido
 2020-01-14 15:48:39,741 INFO  [Log] X 
 2020-01-14 15:48:39,741 INFO  [Log] X 
 2020-01-14 15:48:39,741 INFO  [Log] X 
+2020-01-16 10:31:08,790 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:31:14,275 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:31:14,302 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:31:15,332 INFO  [Log] Clicando no link login 
+2020-01-16 10:31:15,386 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:31:15,971 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:31:15,987 INFO  [Log] clique em create account 
+2020-01-16 10:31:16,386 INFO  [Log] escrevendo o username 
+2020-01-16 10:31:16,853 INFO  [Log] escrevendo o email 
+2020-01-16 10:31:17,017 INFO  [Log] escrevendo a senha 
+2020-01-16 10:31:17,203 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:31:17,355 INFO  [Log] escrevendo o nome 
+2020-01-16 10:31:17,473 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:31:17,621 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:31:17,731 INFO  [Log] Selecionando o país 
+2020-01-16 10:31:17,847 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:31:18,082 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:31:18,229 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:31:18,363 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:31:18,450 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:31:18,523 INFO  [Log] clicando em registrar 
+2020-01-16 10:31:18,537 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:31:28,911 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 10:31:28,927 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:31:29,350 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:31:29,903 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:31:30,329 INFO  [Log] escrevendo o username 
+2020-01-16 10:31:30,602 INFO  [Log] escrevendo o email 
+2020-01-16 10:31:30,752 INFO  [Log] escrevendo a senha 
+2020-01-16 10:31:30,899 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:31:31,032 INFO  [Log] escrevendo o nome 
+2020-01-16 10:31:31,169 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:31:31,334 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:31:31,442 INFO  [Log] Selecionando o país 
+2020-01-16 10:31:31,577 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:31:31,801 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:31:31,947 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:31:32,087 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:31:32,167 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:31:32,229 INFO  [Log] clicando em registrar
+ 
+2020-01-16 10:31:33,162 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:31:33,162 INFO  [Log] X 
+2020-01-16 10:31:33,162 INFO  [Log] X 
+2020-01-16 10:31:33,162 INFO  [Log] X 
+2020-01-16 10:31:33,162 INFO  [Log] X 
+2020-01-16 10:40:37,838 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:40:42,729 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:40:42,750 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:40:43,725 INFO  [Log] Clicando no link login 
+2020-01-16 10:40:43,774 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:40:44,369 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:40:44,387 INFO  [Log] clique em create account 
+2020-01-16 10:40:44,789 INFO  [Log] escrevendo o username 
+2020-01-16 10:40:45,093 INFO  [Log] escrevendo o email 
+2020-01-16 10:40:45,243 INFO  [Log] escrevendo a senha 
+2020-01-16 10:40:45,388 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:40:45,526 INFO  [Log] escrevendo o nome 
+2020-01-16 10:40:45,678 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:40:45,856 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:40:45,972 INFO  [Log] Selecionando o país 
+2020-01-16 10:40:46,106 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:40:46,369 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:40:46,502 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:40:46,634 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:40:46,725 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:40:46,796 INFO  [Log] clicando em registrar 
+2020-01-16 10:40:46,810 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:40:48,002 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 10:40:48,012 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:40:48,383 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:40:48,941 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:40:49,344 INFO  [Log] escrevendo o username 
+2020-01-16 10:40:49,781 INFO  [Log] escrevendo o email 
+2020-01-16 10:40:49,941 INFO  [Log] escrevendo a senha 
+2020-01-16 10:40:50,087 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:40:50,279 INFO  [Log] escrevendo o nome 
+2020-01-16 10:40:50,410 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:40:50,589 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:40:50,690 INFO  [Log] Selecionando o país 
+2020-01-16 10:40:50,811 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:40:51,097 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:40:51,285 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:40:51,412 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:40:51,491 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:40:51,552 INFO  [Log] clicando em registrar
+ 
+2020-01-16 10:40:52,447 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:40:52,447 INFO  [Log] X 
+2020-01-16 10:40:52,447 INFO  [Log] X 
+2020-01-16 10:40:52,447 INFO  [Log] X 
+2020-01-16 10:40:52,447 INFO  [Log] X 
+2020-01-16 10:43:59,028 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:44:03,928 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:44:03,946 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:44:04,985 INFO  [Log] Clicando no link login 
+2020-01-16 10:44:05,044 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:44:05,658 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:44:05,679 INFO  [Log] clique em create account 
+2020-01-16 10:44:06,177 INFO  [Log] escrevendo o username 
+2020-01-16 10:44:06,552 INFO  [Log] escrevendo o email 
+2020-01-16 10:44:06,733 INFO  [Log] escrevendo a senha 
+2020-01-16 10:44:06,948 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:44:07,139 INFO  [Log] escrevendo o nome 
+2020-01-16 10:44:07,301 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:44:07,482 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:44:07,602 INFO  [Log] Selecionando o país 
+2020-01-16 10:44:07,768 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:44:08,079 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:44:08,252 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:44:08,407 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:44:08,502 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:44:08,593 INFO  [Log] clicando em registrar 
+2020-01-16 10:44:08,611 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:44:09,820 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 10:44:09,832 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:44:10,236 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:44:10,791 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:44:11,198 INFO  [Log] escrevendo o username 
+2020-01-16 10:44:11,658 INFO  [Log] escrevendo o email 
+2020-01-16 10:44:11,830 INFO  [Log] escrevendo a senha 
+2020-01-16 10:44:11,991 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:44:12,181 INFO  [Log] escrevendo o nome 
+2020-01-16 10:44:12,330 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:44:12,508 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:44:12,617 INFO  [Log] Selecionando o país 
+2020-01-16 10:44:12,750 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:44:13,016 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:44:13,179 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:44:13,335 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:44:13,418 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:44:13,493 INFO  [Log] clicando em registrar
+ 
+2020-01-16 10:44:14,434 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:44:14,434 INFO  [Log] X 
+2020-01-16 10:44:14,434 INFO  [Log] X 
+2020-01-16 10:44:14,434 INFO  [Log] X 
+2020-01-16 10:44:14,434 INFO  [Log] X 
+2020-01-16 10:45:06,020 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:45:10,898 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:45:10,916 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:45:11,791 INFO  [Log] Clicando no link login 
+2020-01-16 10:45:11,845 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:45:12,431 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:45:12,447 INFO  [Log] clique em create account 
+2020-01-16 10:45:12,864 INFO  [Log] escrevendo o username 
+2020-01-16 10:45:13,168 INFO  [Log] escrevendo o email 
+2020-01-16 10:45:13,325 INFO  [Log] escrevendo a senha 
+2020-01-16 10:45:13,465 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:45:13,599 INFO  [Log] escrevendo o nome 
+2020-01-16 10:45:13,745 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:45:13,907 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:45:14,014 INFO  [Log] Selecionando o país 
+2020-01-16 10:45:14,155 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:45:14,525 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:45:14,664 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:45:14,795 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:45:14,878 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:45:14,984 INFO  [Log] clicando em registrar 
+2020-01-16 10:45:15,013 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:45:25,808 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:45:25,808 INFO  [Log] X 
+2020-01-16 10:45:25,808 INFO  [Log] X 
+2020-01-16 10:45:25,808 INFO  [Log] X 
+2020-01-16 10:45:25,808 INFO  [Log] X 
+2020-01-16 10:45:40,971 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:45:45,861 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:45:45,879 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:45:46,873 INFO  [Log] Clicando no link login 
+2020-01-16 10:45:46,923 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:45:47,509 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:45:47,525 INFO  [Log] clique em create account 
+2020-01-16 10:45:47,943 INFO  [Log] escrevendo o username 
+2020-01-16 10:45:48,257 INFO  [Log] escrevendo o email 
+2020-01-16 10:45:48,409 INFO  [Log] escrevendo a senha 
+2020-01-16 10:45:48,557 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:45:48,689 INFO  [Log] escrevendo o nome 
+2020-01-16 10:45:48,840 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:45:49,002 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:45:49,124 INFO  [Log] Selecionando o país 
+2020-01-16 10:45:49,256 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:45:49,511 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:45:49,803 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:45:49,937 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:45:50,026 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:45:50,120 INFO  [Log] clicando em registrar 
+2020-01-16 10:45:50,132 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:45:51,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:45:51,799 INFO  [Log] X 
+2020-01-16 10:45:51,799 INFO  [Log] X 
+2020-01-16 10:45:51,799 INFO  [Log] X 
+2020-01-16 10:45:51,799 INFO  [Log] X 
+2020-01-16 10:45:56,824 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:46:01,680 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 10:46:01,693 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:46:02,775 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:46:03,330 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:46:03,759 INFO  [Log] escrevendo o username 
+2020-01-16 10:46:04,178 INFO  [Log] escrevendo o email 
+2020-01-16 10:46:04,328 INFO  [Log] escrevendo a senha 
+2020-01-16 10:46:04,473 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:46:04,603 INFO  [Log] escrevendo o nome 
+2020-01-16 10:46:04,744 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:46:04,913 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:46:05,016 INFO  [Log] Selecionando o país 
+2020-01-16 10:46:05,134 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:46:05,363 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:46:05,505 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:46:05,642 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:46:05,724 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:46:05,788 INFO  [Log] clicando em registrar
+ 
+2020-01-16 10:46:06,695 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:46:06,695 INFO  [Log] X 
+2020-01-16 10:46:06,695 INFO  [Log] X 
+2020-01-16 10:46:06,695 INFO  [Log] X 
+2020-01-16 10:46:06,695 INFO  [Log] X 
+2020-01-16 10:52:06,454 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:52:11,322 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 10:52:11,340 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:52:12,200 INFO  [Log] Clicando no link login 
+2020-01-16 10:52:12,236 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:52:12,821 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:52:12,837 INFO  [Log] clique em create account 
+2020-01-16 10:52:13,251 INFO  [Log] escrevendo o username 
+2020-01-16 10:52:13,675 INFO  [Log] escrevendo o email 
+2020-01-16 10:52:13,812 INFO  [Log] escrevendo a senha 
+2020-01-16 10:52:13,947 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:52:14,067 INFO  [Log] escrevendo o nome 
+2020-01-16 10:52:14,207 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:52:14,357 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:52:14,459 INFO  [Log] Selecionando o país 
+2020-01-16 10:52:14,586 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:52:14,801 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:52:14,939 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:52:15,070 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:52:15,156 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:52:15,247 INFO  [Log] clicando em registrar 
+2020-01-16 10:52:15,260 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 10:52:16,936 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:52:16,936 INFO  [Log] X 
+2020-01-16 10:52:16,936 INFO  [Log] X 
+2020-01-16 10:52:16,936 INFO  [Log] X 
+2020-01-16 10:52:16,936 INFO  [Log] X 
+2020-01-16 10:52:21,958 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 10:52:26,824 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 10:52:26,838 INFO  [Log] Elemento Login encontrado 
+2020-01-16 10:52:27,703 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:52:28,277 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 10:52:28,712 INFO  [Log] escrevendo o username 
+2020-01-16 10:52:28,992 INFO  [Log] escrevendo o email 
+2020-01-16 10:52:29,143 INFO  [Log] escrevendo a senha 
+2020-01-16 10:52:29,283 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 10:52:29,421 INFO  [Log] escrevendo o nome 
+2020-01-16 10:52:29,560 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 10:52:29,725 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 10:52:29,821 INFO  [Log] Selecionando o país 
+2020-01-16 10:52:29,957 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 10:52:30,200 INFO  [Log] escrevendo o endereço 
+2020-01-16 10:52:30,337 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 10:52:30,468 INFO  [Log] escrevendo o código postal 
+2020-01-16 10:52:30,557 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 10:52:30,636 INFO  [Log] clicando em registrar
+ 
+2020-01-16 10:52:31,547 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 10:52:31,547 INFO  [Log] X 
+2020-01-16 10:52:31,547 INFO  [Log] X 
+2020-01-16 10:52:31,547 INFO  [Log] X 
+2020-01-16 10:52:31,547 INFO  [Log] X 
+2020-01-16 11:43:25,957 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 11:43:30,998 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 11:43:31,015 INFO  [Log] Elemento Login encontrado 
+2020-01-16 11:43:31,992 INFO  [Log] Clicando no link login 
+2020-01-16 11:43:32,034 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:43:32,633 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:43:32,650 INFO  [Log] clique em create account 
+2020-01-16 11:43:33,067 INFO  [Log] escrevendo o username 
+2020-01-16 11:43:33,358 INFO  [Log] escrevendo o email 
+2020-01-16 11:43:33,502 INFO  [Log] escrevendo a senha 
+2020-01-16 11:43:33,641 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 11:43:33,769 INFO  [Log] escrevendo o nome 
+2020-01-16 11:43:33,890 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 11:43:34,059 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 11:43:34,173 INFO  [Log] Selecionando o país 
+2020-01-16 11:43:34,311 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 11:43:34,673 INFO  [Log] escrevendo o endereço 
+2020-01-16 11:43:34,815 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 11:43:34,935 INFO  [Log] escrevendo o código postal 
+2020-01-16 11:43:35,018 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 11:43:35,089 INFO  [Log] clicando em registrar 
+2020-01-16 11:43:35,102 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 11:43:36,732 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 11:43:36,732 INFO  [Log] X 
+2020-01-16 11:43:36,732 INFO  [Log] X 
+2020-01-16 11:43:36,732 INFO  [Log] X 
+2020-01-16 11:43:36,732 INFO  [Log] X 
+2020-01-16 11:43:41,761 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 11:43:46,619 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 11:43:46,634 INFO  [Log] Elemento Login encontrado 
+2020-01-16 11:43:47,622 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:43:48,193 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:43:48,612 INFO  [Log] escrevendo o username 
+2020-01-16 11:43:49,012 INFO  [Log] escrevendo o email 
+2020-01-16 11:43:49,161 INFO  [Log] escrevendo a senha 
+2020-01-16 11:43:49,300 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 11:43:49,429 INFO  [Log] escrevendo o nome 
+2020-01-16 11:43:49,576 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 11:43:49,733 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 11:43:49,821 INFO  [Log] Selecionando o país 
+2020-01-16 11:43:49,946 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 11:43:50,162 INFO  [Log] escrevendo o endereço 
+2020-01-16 11:43:50,295 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 11:43:50,421 INFO  [Log] escrevendo o código postal 
+2020-01-16 11:43:50,499 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 11:43:50,561 INFO  [Log] clicando em registrar
+ 
+2020-01-16 11:43:51,460 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 11:43:51,460 INFO  [Log] X 
+2020-01-16 11:43:51,460 INFO  [Log] X 
+2020-01-16 11:43:51,460 INFO  [Log] X 
+2020-01-16 11:43:51,460 INFO  [Log] X 
+2020-01-16 11:47:21,533 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 11:47:26,512 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 11:47:26,539 INFO  [Log] Elemento Login encontrado 
+2020-01-16 11:47:27,504 INFO  [Log] Clicando no link login 
+2020-01-16 11:47:27,554 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:47:28,160 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:47:28,179 INFO  [Log] clique em create account 
+2020-01-16 11:47:28,629 INFO  [Log] escrevendo o username 
+2020-01-16 11:47:29,230 INFO  [Log] escrevendo o email 
+2020-01-16 11:47:29,451 INFO  [Log] escrevendo a senha 
+2020-01-16 11:47:29,645 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 11:47:29,806 INFO  [Log] escrevendo o nome 
+2020-01-16 11:47:29,942 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 11:47:30,161 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 11:47:30,277 INFO  [Log] Selecionando o país 
+2020-01-16 11:47:30,407 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 11:47:30,665 INFO  [Log] escrevendo o endereço 
+2020-01-16 11:47:30,820 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 11:47:30,960 INFO  [Log] escrevendo o código postal 
+2020-01-16 11:47:31,060 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 11:47:31,168 INFO  [Log] clicando em registrar 
+2020-01-16 11:47:31,184 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 11:47:32,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 11:47:32,845 INFO  [Log] X 
+2020-01-16 11:47:32,845 INFO  [Log] X 
+2020-01-16 11:47:32,845 INFO  [Log] X 
+2020-01-16 11:47:32,845 INFO  [Log] X 
+2020-01-16 11:47:44,316 INFO  [Log] Elemento Botão Pesquisar encontrado 
+2020-01-16 11:47:44,384 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 11:47:44,522 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 11:47:56,855 INFO  [Log] Elemento Botão Pesquisar encontrado 
+2020-01-16 11:47:56,912 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 11:47:57,034 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 11:48:04,853 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 11:48:09,719 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 11:48:09,732 INFO  [Log] Elemento Login encontrado 
+2020-01-16 11:48:10,724 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:48:11,299 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 11:48:11,736 INFO  [Log] escrevendo o username 
+2020-01-16 11:48:12,040 INFO  [Log] escrevendo o email 
+2020-01-16 11:48:12,187 INFO  [Log] escrevendo a senha 
+2020-01-16 11:48:12,337 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 11:48:12,505 INFO  [Log] escrevendo o nome 
+2020-01-16 11:48:12,670 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 11:48:12,825 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 11:48:12,922 INFO  [Log] Selecionando o país 
+2020-01-16 11:48:13,049 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 11:48:13,539 INFO  [Log] escrevendo o endereço 
+2020-01-16 11:48:13,680 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 11:48:13,802 INFO  [Log] escrevendo o código postal 
+2020-01-16 11:48:13,888 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 11:48:13,949 INFO  [Log] clicando em registrar
+ 
+2020-01-16 11:48:14,842 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 11:48:14,842 INFO  [Log] X 
+2020-01-16 11:48:14,842 INFO  [Log] X 
+2020-01-16 11:48:14,842 INFO  [Log] X 
+2020-01-16 11:48:14,842 INFO  [Log] X 
+2020-01-16 12:15:39,640 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 12:15:51,220 INFO  [Log] Elemento Botão Pesquisar encontrado 
+2020-01-16 12:15:51,287 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 12:15:51,419 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 12:16:03,605 INFO  [Log] Elemento Botão Pesquisar encontrado 
+2020-01-16 12:16:03,667 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 12:16:03,796 INFO  [Log] Elemento TextBox Pesquisar encontrado 
+2020-01-16 12:18:35,769 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 12:18:36,531 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 12:18:36,549 INFO  [Log] Elemento Login encontrado 
+2020-01-16 12:18:37,535 INFO  [Log] Clicando no link login 
+2020-01-16 12:18:37,602 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:18:38,201 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:18:38,220 INFO  [Log] clique em create account 
+2020-01-16 12:18:38,652 INFO  [Log] escrevendo o username 
+2020-01-16 12:18:38,975 INFO  [Log] escrevendo o email 
+2020-01-16 12:18:39,117 INFO  [Log] escrevendo a senha 
+2020-01-16 12:18:39,268 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 12:18:39,439 INFO  [Log] escrevendo o nome 
+2020-01-16 12:18:39,572 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 12:18:39,733 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 12:18:39,852 INFO  [Log] Selecionando o país 
+2020-01-16 12:18:39,980 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 12:18:40,220 INFO  [Log] escrevendo o endereço 
+2020-01-16 12:18:40,366 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 12:18:40,505 INFO  [Log] escrevendo o código postal 
+2020-01-16 12:18:40,604 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 12:18:40,678 INFO  [Log] clicando em registrar 
+2020-01-16 12:18:40,690 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 12:18:46,020 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 12:18:46,020 INFO  [Log] X 
+2020-01-16 12:18:46,020 INFO  [Log] X 
+2020-01-16 12:18:46,020 INFO  [Log] X 
+2020-01-16 12:18:46,021 INFO  [Log] X 
+2020-01-16 12:18:55,236 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 12:18:55,973 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 12:18:55,987 INFO  [Log] Elemento Login encontrado 
+2020-01-16 12:18:57,021 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:18:57,599 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:18:58,022 INFO  [Log] escrevendo o username 
+2020-01-16 12:18:58,306 INFO  [Log] escrevendo o email 
+2020-01-16 12:18:58,480 INFO  [Log] escrevendo a senha 
+2020-01-16 12:18:58,632 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 12:18:58,762 INFO  [Log] escrevendo o nome 
+2020-01-16 12:18:58,881 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 12:18:59,064 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 12:18:59,165 INFO  [Log] Selecionando o país 
+2020-01-16 12:18:59,295 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 12:18:59,537 INFO  [Log] escrevendo o endereço 
+2020-01-16 12:18:59,683 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 12:18:59,816 INFO  [Log] escrevendo o código postal 
+2020-01-16 12:18:59,901 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 12:18:59,980 INFO  [Log] clicando em registrar
+ 
+2020-01-16 12:19:00,340 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-16 12:19:00,340 INFO  [Log] X 
+2020-01-16 12:19:00,340 INFO  [Log] X 
+2020-01-16 12:19:00,340 INFO  [Log] X 
+2020-01-16 12:19:00,340 INFO  [Log] X 
+2020-01-16 12:34:09,393 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 12:34:10,148 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 12:34:10,166 INFO  [Log] Elemento Login encontrado 
+2020-01-16 12:34:11,157 INFO  [Log] Clicando no link login 
+2020-01-16 12:34:11,214 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:34:11,808 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 12:34:11,826 INFO  [Log] clique em create account 
+2020-01-16 12:34:12,270 INFO  [Log] escrevendo o username 
+2020-01-16 12:34:12,697 INFO  [Log] escrevendo o email 
+2020-01-16 12:34:12,834 INFO  [Log] escrevendo a senha 
+2020-01-16 12:34:12,973 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 12:34:13,136 INFO  [Log] escrevendo o nome 
+2020-01-16 12:34:13,259 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 12:34:13,418 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 12:34:13,523 INFO  [Log] Selecionando o país 
+2020-01-16 12:34:13,653 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 12:34:13,880 INFO  [Log] escrevendo o endereço 
+2020-01-16 12:34:14,032 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 12:34:14,167 INFO  [Log] escrevendo o código postal 
+2020-01-16 12:34:14,245 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 12:34:14,330 INFO  [Log] clicando em registrar 
+2020-01-16 12:34:14,343 INFO  [Log] Elemento Login TextBox encontrado 
+2020-01-16 15:53:46,559 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 15:53:47,320 INFO  [Log] Começando Cadastro Válido 
+2020-01-16 15:53:48,341 INFO  [Log] Clicando no link login 
+2020-01-16 15:53:48,376 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 15:53:48,974 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 15:53:48,993 INFO  [Log] clique em create account 
+2020-01-16 15:53:49,409 INFO  [Log] escrevendo o username 
+2020-01-16 15:53:49,709 INFO  [Log] escrevendo o email 
+2020-01-16 15:53:49,861 INFO  [Log] escrevendo a senha 
+2020-01-16 15:53:50,010 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 15:53:50,145 INFO  [Log] escrevendo o nome 
+2020-01-16 15:53:50,289 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 15:53:50,446 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 15:53:50,553 INFO  [Log] Selecionando o país 
+2020-01-16 15:53:50,689 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 15:53:51,073 INFO  [Log] escrevendo o endereço 
+2020-01-16 15:53:51,216 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 15:53:51,345 INFO  [Log] escrevendo o código postal 
+2020-01-16 15:53:51,877 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 15:53:51,968 INFO  [Log] clicando em registrar 
+2020-01-16 15:54:33,904 INFO  [Log] Produto Tablet encontrado 
+2020-01-16 15:54:43,500 INFO  [Log] Novo ChromeDriver instanciado! 
+2020-01-16 15:54:44,246 INFO  [Log] Começando Cadastro Inválido 
+2020-01-16 15:54:45,248 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 15:54:45,821 INFO  [Log] Elemento Botão Create Account encontrado 
+2020-01-16 15:54:46,256 INFO  [Log] escrevendo o username 
+2020-01-16 15:54:46,657 INFO  [Log] escrevendo o email 
+2020-01-16 15:54:46,807 INFO  [Log] escrevendo a senha 
+2020-01-16 15:54:46,952 INFO  [Log] escrevendo a confirmação da senha 
+2020-01-16 15:54:47,094 INFO  [Log] escrevendo o nome 
+2020-01-16 15:54:47,208 INFO  [Log] escrevendo o sobrenome 
+2020-01-16 15:54:47,363 INFO  [Log] escrevendo o número de telefone 
+2020-01-16 15:54:47,455 INFO  [Log] Selecionando o país 
+2020-01-16 15:54:47,584 INFO  [Log] escrevendo o nome da cidade 
+2020-01-16 15:54:47,824 INFO  [Log] escrevendo o endereço 
+2020-01-16 15:54:47,986 INFO  [Log] escrevendo o nome do estado 
+2020-01-16 15:54:48,138 INFO  [Log] escrevendo o código postal 
+2020-01-16 15:54:48,218 INFO  [Log] aceitando a checkbox de termos 
+2020-01-16 15:54:48,286 INFO  [Log] clicando em registrar
+ 
