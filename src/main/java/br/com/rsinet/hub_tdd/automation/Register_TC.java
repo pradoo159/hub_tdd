@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import br.com.rsinet.hub_tdd.appModules.Register_Action;
-import br.com.rsinet.hub_tdd.util.Driver;
+import br.com.rsinet.hub_tdd.util.DriverFactory;
 import br.com.rsinet.hub_tdd.util.Log;
 import br.com.rsinet.hub_tdd.util.Print_Func;
 
@@ -22,7 +22,7 @@ public class Register_TC {
 	public static void IniciarLoja() {
 		DOMConfigurator.configure("log4j.xml");
 		
-		driver = Driver.iniciaChrome();
+		driver = DriverFactory.iniciaChrome();
 		
 		Log.info("Novo ChromeDriver instanciado!");
 		
@@ -31,11 +31,11 @@ public class Register_TC {
 	@Test(groups = "Cadastro", priority = 0)
 	public void cadastroValido() throws InterruptedException {
 		
-		driver.get("http://advantageonlineshopping.com/");
+		DriverFactory.abrirSite(driver);
 		Reporter.log("Aplicação Web Iniciada! (cadastro válido)");
 		Log.info("Começando Cadastro Válido");
 		
-		Register_Action.ExecuteValid(driver, "pradov001", "emersonpradov001@hotmail.com");
+		Register_Action.ExecuteValid(driver, "pradov003", "emersonpradov003@hotmail.com");
 		Reporter.log("Cadastrado com sucesso!");
 		
 		assertEquals("http://advantageonlineshopping.com/#/", driver.getCurrentUrl());
@@ -47,7 +47,7 @@ public class Register_TC {
 	@Test(groups = "Cadastro", priority = 1)
 	public void cadastroComEmailInvalido() {
 		
-		driver.get("http://advantageonlineshopping.com/");
+		DriverFactory.abrirSite(driver);
 		Reporter.log("Aplicação Web Iniciada! (cadastro inválido)");
 		Log.info("Começando Cadastro Inválido");
 		
@@ -55,14 +55,13 @@ public class Register_TC {
 		assertEquals("http://advantageonlineshopping.com/#/register", driver.getCurrentUrl());
 		Reporter.log("Não foi possível cadastrar o usuário!");
 		
-		Print_Func.captureScreenShot(driver);
 		Reporter.log("Finalizando cadastro inválido");
 		
 	}
 	
 	@AfterMethod
 	public static void FecharNavegador() {
-		Driver.FechaChrome(driver);
+		DriverFactory.FechaChrome(driver);
 		
 	}
 

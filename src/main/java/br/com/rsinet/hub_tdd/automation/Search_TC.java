@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import br.com.rsinet.hub_tdd.appModules.Search_Action;
 import br.com.rsinet.hub_tdd.pageObject.Products_Page;
 import br.com.rsinet.hub_tdd.util.Constant;
-import br.com.rsinet.hub_tdd.util.Driver;
+import br.com.rsinet.hub_tdd.util.DriverFactory;
 import br.com.rsinet.hub_tdd.util.ExcelUtils;
 
 public class Search_TC {
@@ -26,15 +26,15 @@ public class Search_TC {
 
 		ExcelUtils.setExcelFile(Constant.Path_TestData + Constant.File_TestData, "Planilha1");
 
-		driver = Driver.iniciaChrome();
+		driver = DriverFactory.iniciaChrome();
 
 	}
 
-	@Test
+	@Test(groups = "Procurar por texto" ,priority = 0)
 	public void PesquisaProdutoValido() throws Exception {
 
 		Reporter.log("Pesquisa por produto valido iniciada!");
-		driver.get(Constant.URL);
+		DriverFactory.abrirSite(driver);
 		Search_Action.ExecuteValid(driver, optionValid);
 		String textoProduto = Products_Page.title_Product(driver).getText();
 		String textoReal = ExcelUtils.getCellData(optionValid, 0);
@@ -44,11 +44,11 @@ public class Search_TC {
 
 	}
 	
-	@Test
+	@Test(groups = "Procurar por texto" ,priority = 1)
 	public void PesquisaProdutoInvalido() throws Exception {
 
 		Reporter.log("Pesquisa por produto invalido iniciada!");
-		driver.get(Constant.URL);
+		DriverFactory.abrirSite(driver);
 		Search_Action.ExecuteInvalid(driver, optionInvalid);
 		String textoFalha = Products_Page.txt_NoResult(driver).getText();
 		assertEquals(true, textoFalha.contains("No results for"));
@@ -60,7 +60,7 @@ public class Search_TC {
 	@AfterMethod
 	public static void FechaNavegadorOK() throws Exception {
 		
-		Driver.FechaChrome(driver);
+		DriverFactory.FechaChrome(driver);
 		
 	}
 

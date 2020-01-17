@@ -12,7 +12,7 @@ import br.com.rsinet.hub_tdd.pageObject.Home_Page;
 import br.com.rsinet.hub_tdd.pageObject.Products_Page;
 import br.com.rsinet.hub_tdd.util.Constant;
 import br.com.rsinet.hub_tdd.util.Data;
-import br.com.rsinet.hub_tdd.util.Driver;
+import br.com.rsinet.hub_tdd.util.DriverFactory;
 import br.com.rsinet.hub_tdd.util.ExcelUtils;
 
 public class SearchByImage_TC {
@@ -24,14 +24,14 @@ public class SearchByImage_TC {
 		
 		ExcelUtils.setExcelFile(Constant.Path_TestData + Constant.File_TestData, "Planilha1");
 		
-		driver = Driver.iniciaChrome();
+		driver = DriverFactory.iniciaChrome();
 		
 	}
 
 	@Test(groups = "Procurar por imagem" ,priority = 0)
 	public static void SearchByImageValid() throws Exception{
 		
-		driver.get(Constant.URL);
+		DriverFactory.abrirSite(driver);	
 		
 		SearchByImage_Action.ExecuteValid(driver);
 		
@@ -45,7 +45,7 @@ public class SearchByImage_TC {
 	@Test(groups = "Procurar por imagem" ,priority = 1)
 	public static void SearchByImageInvalid() throws InterruptedException{
 		
-		driver.get(Constant.URL);
+		DriverFactory.abrirSite(driver);
 		
 		String txtNotebookHome = Home_Page.txt_NotebookInvalid(driver).getText();
 		
@@ -60,7 +60,7 @@ public class SearchByImage_TC {
 	@AfterMethod
 	public static void FechaNavegador() {
 		
-		Driver.FechaChrome(driver);
+		DriverFactory.FechaChrome(driver);
 		
 	}
 

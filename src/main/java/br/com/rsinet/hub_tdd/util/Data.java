@@ -26,4 +26,12 @@ public class Data{
 		return ExcelUtils.getCellData(4, 0);
 	}
 	
+	public static String resultadoPesquisaInvalida1() throws Exception { 
+		return ExcelUtils.getCellData(3, 1);
+	}
+	
+	public static String resultadoPesquisaInvalida2() throws Exception { 
+		return ExcelUtils.getCellData(4, 1);
+	}
+	
 }

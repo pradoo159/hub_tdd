@@ -3,18 +3,9 @@
 <suite name="Failed suite [Test - TDD]">
   <test thread-count="5" name="ProjetoLoja(failed)">
     <classes>
-      <class name="br.com.rsinet.hub_tdd.automation.Search_TC">
-        <methods>
-          <include name="PesquisaProdutoInvalido"/>
-          <include name="PesquisaProdutoValido"/>
-          <include name="IniciaNavegadorEExcel"/>
-          <include name="FechaNavegadorOK"/>
-        </methods>
-      </class> <!-- br.com.rsinet.hub_tdd.automation.Search_TC -->
       <class name="br.com.rsinet.hub_tdd.automation.Register_TC">
         <methods>
           <include name="IniciarLoja"/>
-          <include name="cadastroComEmailInvalido"/>
           <include name="cadastroValido"/>
           <include name="FecharNavegador"/>
         </methods>

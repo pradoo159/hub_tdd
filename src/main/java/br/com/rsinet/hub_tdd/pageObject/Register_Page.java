@@ -121,4 +121,12 @@ public class Register_Page {
 		
 	}
 
+	public static WebElement emailError_Message(WebDriver driver) {
+		
+		element = driver.findElement(By.xpath("//*[@id=\"formCover\"]/div[1]/div[1]/sec-view[2]/div/input"));
+		
+		return element;
+		
+	}
+	
 }
