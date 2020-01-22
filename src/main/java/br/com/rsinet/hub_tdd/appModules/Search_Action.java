@@ -4,6 +4,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import br.com.rsinet.hub_tdd.pageObject.Home_Page;
 import br.com.rsinet.hub_tdd.pageObject.Products_Page;
@@ -11,6 +13,7 @@ import br.com.rsinet.hub_tdd.util.Data;
 
 public class Search_Action {
 
+	// Método que faz a pesquisa por texto válida
 	public static void ExecuteValid(WebDriver driver, int option) throws Exception {
 
 		Home_Page.btn_Search(driver).click();
@@ -41,6 +44,7 @@ public class Search_Action {
 
 	}
 	
+	// Método que faz a pesquisa por texto inválida
 	public static void ExecuteInvalid(WebDriver driver, int option) throws Exception {
 		
 		Home_Page.btn_Search(driver).click();
@@ -54,6 +58,8 @@ public class Search_Action {
 			
 			JavascriptExecutor executor = (JavascriptExecutor) driver;
 			executor.executeScript("arguments[0].click();", driver.findElement(By.xpath("//*[@id=\"search\"]/div/div")));
+			WebDriverWait wait = new WebDriverWait(driver, 10);
+			wait.until(ExpectedConditions.visibilityOf(Products_Page.txt_NoResult(driver)));
 
 		} else if (option == 4) {
 			
@@ -64,7 +70,8 @@ public class Search_Action {
 			
 			JavascriptExecutor executor = (JavascriptExecutor) driver;
 			executor.executeScript("arguments[0].click();", driver.findElement(By.xpath("//*[@id=\"search\"]/div/div")));
-			
+			WebDriverWait wait = new WebDriverWait(driver, 10);
+			wait.until(ExpectedConditions.visibilityOf(Products_Page.txt_NoResult(driver)));
 		}
 		
 	}

@@ -18,6 +18,7 @@ public class Register_TC {
 	
 	private static WebDriver driver;
 
+					// INICIA O NAVEGADOR 
 	@BeforeMethod
 	public static void IniciarLoja() {
 		DOMConfigurator.configure("log4j.xml");
@@ -28,6 +29,7 @@ public class Register_TC {
 		
 	}
 
+						// INICIA O CADASTRO VÁLIDO
 	@Test(groups = "Cadastro", priority = 0)
 	public void cadastroValido() throws InterruptedException {
 		
@@ -35,15 +37,16 @@ public class Register_TC {
 		Reporter.log("Aplicação Web Iniciada! (cadastro válido)");
 		Log.info("Começando Cadastro Válido");
 		
-		Register_Action.ExecuteValid(driver, "pradov003", "emersonpradov003@hotmail.com");
+		Register_Action.ExecuteValid(driver, "pradov206", "emersonpradoo@hotmail.com");
 		Reporter.log("Cadastrado com sucesso!");
 		
 		assertEquals("http://advantageonlineshopping.com/#/", driver.getCurrentUrl());
-		Print_Func.captureScreenShot(driver);
+		Print_Func.captureScreenShot(driver, "cadastro_valido");
 		Reporter.log("Finalizando cadastro válido");
 
 	}
 	
+						// INICIA O CADASTRO INVÁLIDO
 	@Test(groups = "Cadastro", priority = 1)
 	public void cadastroComEmailInvalido() {
 		
@@ -59,10 +62,11 @@ public class Register_TC {
 		
 	}
 	
+							// FECHA O NAVEGADOR
 	@AfterMethod
 	public static void FecharNavegador() {
 		DriverFactory.FechaChrome(driver);
-		
 	}
+	
 
 }

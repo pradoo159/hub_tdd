@@ -11,6 +11,8 @@ import br.com.rsinet.hub_tdd.pageObject.Register_Page;
 import br.com.rsinet.hub_tdd.util.Log;
 import br.com.rsinet.hub_tdd.util.Print_Func;
 public class Register_Action {
+	
+	// Método para executar o cadastro válido
 	public static void ExecuteValid(WebDriver driver, String user, String email) {
 
 		Home_Page.lnk_LogIn(driver).click();
@@ -47,6 +49,7 @@ public class Register_Action {
 
 	}
 
+	// Método para executar o cadastro inválido
 	public static void ExecuteInvalid(WebDriver driver, String user, String email) {
 
 		Home_Page.lnk_LogIn(driver).click();
@@ -63,7 +66,7 @@ public class Register_Action {
 		Register_Page.txtbx_Email(driver).sendKeys(email);
 		Register_Page.txtbx_Password(driver).sendKeys("Teste@1234");
 		Register_Page.txtbx_ConfirmPassword(driver).sendKeys("Teste@1234");
-		Print_Func.captureScreenShot(driver);
+		Print_Func.captureScreenShot(driver, "cadastro_invalido");
 
 		Register_Page.txtbx_FirstName(driver).sendKeys("Emerson");
 		Register_Page.txtbx_LastName(driver).sendKeys("Prado");

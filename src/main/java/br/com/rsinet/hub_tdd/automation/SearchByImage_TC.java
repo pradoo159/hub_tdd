@@ -14,11 +14,14 @@ import br.com.rsinet.hub_tdd.util.Constant;
 import br.com.rsinet.hub_tdd.util.Data;
 import br.com.rsinet.hub_tdd.util.DriverFactory;
 import br.com.rsinet.hub_tdd.util.ExcelUtils;
+import br.com.rsinet.hub_tdd.util.Print_Func;
 
 public class SearchByImage_TC {
 	
 	private static WebDriver driver;
 	
+	
+						// INICIA O NAVEGADOR
 	@BeforeMethod
 	public static void IniciaNavegador() throws Exception {
 		
@@ -28,6 +31,8 @@ public class SearchByImage_TC {
 		
 	}
 
+	
+						// INICIA A PESQUISA POR IMAGEM VÁLIDA
 	@Test(groups = "Procurar por imagem" ,priority = 0)
 	public static void SearchByImageValid() throws Exception{
 		
@@ -37,11 +42,14 @@ public class SearchByImage_TC {
 		
 		String tituloTablet = Products_Page.title_Product(driver).getText();
 		String produtoClicado = Data.nomeTablet().toUpperCase();
-		System.out.println(produtoClicado);
 		
 		assertEquals(tituloTablet.equals(produtoClicado), true);
+		
+		Print_Func.captureScreenShot(driver, "pesquisa_por_imagem_valida");
 	}
 	
+	
+							// INICIA A PESQUISA POR IMAGEM INVÁLIDA
 	@Test(groups = "Procurar por imagem" ,priority = 1)
 	public static void SearchByImageInvalid() throws InterruptedException{
 		
@@ -55,10 +63,14 @@ public class SearchByImage_TC {
 		
 		assertEquals(txtNotebookHome.contentEquals(txtNotebookProduct), false);
 		
+		Print_Func.captureScreenShot(driver, "pesquisa_por_imagem_invalida");
 	}
 	
+	
+						// FECHA O NAVEGADOR
 	@AfterMethod
 	public static void FechaNavegador() {
+		
 		
 		DriverFactory.FechaChrome(driver);
 		

@@ -10,15 +10,14 @@ import org.openqa.selenium.WebDriver;
 
 public class Print_Func {
 
-	public static void captureScreenShot(WebDriver driver) {
+	public static void captureScreenShot(WebDriver driver, String nomeArquivo) {
 
 		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
-			FileUtils.copyFile(src, new File("C:\\Users\\emerson.prado\\eclipse-toolsqa\\workspace-cucumber\\ProjetoLoja"
-					+ "\\screenshots\\"	+ System.currentTimeMillis() + ".png"));
-		}
-		catch (IOException e)
-		{
+			FileUtils.copyFile(src,
+					new File("C:\\Users\\emerson.prado\\eclipse-toolsqa\\workspace-cucumber\\ProjetoLoja"
+							+ "\\screenshots\\" + nomeArquivo + ".png"));
+		} catch (IOException e) {
 			System.out.println(e.getMessage());
 		}
 
