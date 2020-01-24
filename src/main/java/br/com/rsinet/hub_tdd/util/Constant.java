@@ -1,5 +1,9 @@
 package br.com.rsinet.hub_tdd.util;
 
+/*
+ * Classe que armazena variáveis "fixas" para que possam ser reutilizadas com fácil manutenção
+ */
+
 public class Constant {
 	
 	public static final String URL = "http://advantageonlineshopping.com/";

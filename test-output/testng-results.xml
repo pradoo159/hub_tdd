@@ -11,10 +11,28 @@
       <![CDATA[Finalizando cadastro válido]]>
     </line>
     <line>
-      <![CDATA[Pesquisa por produto valido iniciada!]]>
+      <![CDATA[Aplicação Web Iniciada! (pesquisa por texto válida)
+]]>
     </line>
     <line>
-      <![CDATA[Pesquisa por produto valido finalizada!]]>
+      <![CDATA[Produto encontrado!
+]]>
+    </line>
+    <line>
+      <![CDATA[Pesquisa por produto valido finalizada!
+]]>
+    </line>
+    <line>
+      <![CDATA[Aplicação Web Iniciada! (Pesquisa por imagem válida)
+]]>
+    </line>
+    <line>
+      <![CDATA[Produto correto encontrado!
+]]>
+    </line>
+    <line>
+      <![CDATA[Finalizando pesquisa por imagem válida
+]]>
     </line>
     <line>
       <![CDATA[Aplicação Web Iniciada! (cadastro inválido)]]>
@@ -26,72 +44,108 @@
       <![CDATA[Finalizando cadastro inválido]]>
     </line>
     <line>
-      <![CDATA[Pesquisa por produto invalido iniciada!]]>
+      <![CDATA[Aplicação Web Iniciada! (pesquisa por texto inválida)
+]]>
     </line>
     <line>
-      <![CDATA[Pesquisa por produto invalido finalizada!]]>
+      <![CDATA[Produto não encontrado!
+]]>
+    </line>
+    <line>
+      <![CDATA[Pesquisa por produto invalido finalizada!
+]]>
+    </line>
+    <line>
+      <![CDATA[Aplicação Web Iniciada! (Pesquisa por imagem inválida)
+]]>
+    </line>
+    <line>
+      <![CDATA[Produto diferente encontrado!
+]]>
+    </line>
+    <line>
+      <![CDATA[Finalizando pesquisa por imagem inválida
+]]>
     </line>
   </reporter-output>
-  <suite name="Test - TDD" duration-ms="96711" started-at="2020-01-22T18:50:59Z" finished-at="2020-01-22T18:52:35Z">
+  <suite name="Test - TDD" duration-ms="87698" started-at="2020-01-24T18:22:53Z" finished-at="2020-01-24T18:24:21Z">
     <groups>
       <group name="Cadastro">
-        <method signature="Register_TC.cadastroComEmailInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="cadastroComEmailInvalido" class="br.com.rsinet.hub_tdd.automation.Register_TC"/>
-        <method signature="Register_TC.cadastroValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="cadastroValido" class="br.com.rsinet.hub_tdd.automation.Register_TC"/>
+        <method signature="Register_TC.cadastroComEmailInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="cadastroComEmailInvalido" class="br.com.rsinet.hub_tdd.automation.Register_TC"/>
+        <method signature="Register_TC.cadastroValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="cadastroValido" class="br.com.rsinet.hub_tdd.automation.Register_TC"/>
       </group> <!-- Cadastro -->
       <group name="Procurar por imagem">
-        <method signature="SearchByImage_TC.SearchByImageInvalid()[pri:1, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="SearchByImageInvalid" class="br.com.rsinet.hub_tdd.automation.SearchByImage_TC"/>
-        <method signature="SearchByImage_TC.SearchByImageValid()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="SearchByImageValid" class="br.com.rsinet.hub_tdd.automation.SearchByImage_TC"/>
+        <method signature="SearchByImage_TC.SearchByImageInvalid()[pri:1, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="SearchByImageInvalid" class="br.com.rsinet.hub_tdd.automation.SearchByImage_TC"/>
+        <method signature="SearchByImage_TC.SearchByImageValid()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="SearchByImageValid" class="br.com.rsinet.hub_tdd.automation.SearchByImage_TC"/>
       </group> <!-- Procurar por imagem -->
       <group name="Procurar por texto">
-        <method signature="Search_TC.PesquisaProdutoInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="PesquisaProdutoInvalido" class="br.com.rsinet.hub_tdd.automation.Search_TC"/>
-        <method signature="Search_TC.PesquisaProdutoValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="PesquisaProdutoValido" class="br.com.rsinet.hub_tdd.automation.Search_TC"/>
+        <method signature="Search_TC.PesquisaProdutoInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="PesquisaProdutoInvalido" class="br.com.rsinet.hub_tdd.automation.Search_TC"/>
+        <method signature="Search_TC.PesquisaProdutoValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="PesquisaProdutoValido" class="br.com.rsinet.hub_tdd.automation.Search_TC"/>
       </group> <!-- Procurar por texto -->
     </groups>
-    <test name="ProjetoLoja" duration-ms="96711" started-at="2020-01-22T18:50:59Z" finished-at="2020-01-22T18:52:35Z">
+    <test name="ProjetoLoja" duration-ms="87698" started-at="2020-01-24T18:22:53Z" finished-at="2020-01-24T18:24:21Z">
+      <class name="br.com.rsinet.hub_tdd.util.CriarPastaPrint">
+        <test-method status="PASS" signature="PastaScreenshot()[pri:0, instance:br.com.rsinet.hub_tdd.util.CriarPastaPrint@91161c7]" name="PastaScreenshot" is-config="true" duration-ms="0" started-at="2020-01-24T18:22:53Z" finished-at="2020-01-24T18:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PastaScreenshot -->
+      </class> <!-- br.com.rsinet.hub_tdd.util.CriarPastaPrint -->
       <class name="br.com.rsinet.hub_tdd.automation.Search_TC">
-        <test-method status="PASS" signature="IniciaNavegadorEExcel()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="IniciaNavegadorEExcel" is-config="true" duration-ms="9708" started-at="2020-01-22T18:51:19Z" finished-at="2020-01-22T18:51:29Z">
+        <test-method status="PASS" signature="IniciaNavegadorEExcel()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="IniciaNavegadorEExcel" is-config="true" duration-ms="9588" started-at="2020-01-24T18:23:10Z" finished-at="2020-01-24T18:23:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciaNavegadorEExcel -->
-        <test-method status="PASS" signature="PesquisaProdutoValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="PesquisaProdutoValido" duration-ms="4927" started-at="2020-01-22T18:51:29Z" finished-at="2020-01-22T18:51:34Z">
+        <test-method status="PASS" signature="PesquisaProdutoValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="PesquisaProdutoValido" duration-ms="4445" started-at="2020-01-24T18:23:19Z" finished-at="2020-01-24T18:23:24Z">
           <reporter-output>
             <line>
-              <![CDATA[Pesquisa por produto valido iniciada!]]>
+              <![CDATA[Aplicação Web Iniciada! (pesquisa por texto válida)
+]]>
             </line>
             <line>
-              <![CDATA[Pesquisa por produto valido finalizada!]]>
+              <![CDATA[Produto encontrado!
+]]>
+            </line>
+            <line>
+              <![CDATA[Pesquisa por produto valido finalizada!
+]]>
             </line>
           </reporter-output>
         </test-method> <!-- PesquisaProdutoValido -->
-        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="FechaNavegador" is-config="true" duration-ms="41" started-at="2020-01-22T18:51:34Z" finished-at="2020-01-22T18:51:34Z">
+        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="FechaNavegador" is-config="true" duration-ms="50" started-at="2020-01-24T18:23:24Z" finished-at="2020-01-24T18:23:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FechaNavegador -->
-        <test-method status="PASS" signature="IniciaNavegadorEExcel()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="IniciaNavegadorEExcel" is-config="true" duration-ms="9270" started-at="2020-01-22T18:52:08Z" finished-at="2020-01-22T18:52:17Z">
+        <test-method status="PASS" signature="IniciaNavegadorEExcel()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="IniciaNavegadorEExcel" is-config="true" duration-ms="9181" started-at="2020-01-24T18:23:54Z" finished-at="2020-01-24T18:24:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciaNavegadorEExcel -->
-        <test-method status="PASS" signature="PesquisaProdutoInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="PesquisaProdutoInvalido" duration-ms="3424" started-at="2020-01-22T18:52:17Z" finished-at="2020-01-22T18:52:21Z">
+        <test-method status="PASS" signature="PesquisaProdutoInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="PesquisaProdutoInvalido" duration-ms="3273" started-at="2020-01-24T18:24:03Z" finished-at="2020-01-24T18:24:06Z">
           <reporter-output>
             <line>
-              <![CDATA[Pesquisa por produto invalido iniciada!]]>
+              <![CDATA[Aplicação Web Iniciada! (pesquisa por texto inválida)
+]]>
             </line>
             <line>
-              <![CDATA[Pesquisa por produto invalido finalizada!]]>
+              <![CDATA[Produto não encontrado!
+]]>
+            </line>
+            <line>
+              <![CDATA[Pesquisa por produto invalido finalizada!
+]]>
             </line>
           </reporter-output>
         </test-method> <!-- PesquisaProdutoInvalido -->
-        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@77caeb3e]" name="FechaNavegador" is-config="true" duration-ms="42" started-at="2020-01-22T18:52:21Z" finished-at="2020-01-22T18:52:21Z">
+        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Search_TC@6a4f787b]" name="FechaNavegador" is-config="true" duration-ms="52" started-at="2020-01-24T18:24:06Z" finished-at="2020-01-24T18:24:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FechaNavegador -->
       </class> <!-- br.com.rsinet.hub_tdd.automation.Search_TC -->
       <class name="br.com.rsinet.hub_tdd.automation.Register_TC">
-        <test-method status="PASS" signature="IniciarLoja()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="IniciarLoja" is-config="true" duration-ms="10106" started-at="2020-01-22T18:50:59Z" finished-at="2020-01-22T18:51:09Z">
+        <test-method status="PASS" signature="IniciarLoja()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="IniciarLoja" is-config="true" duration-ms="7994" started-at="2020-01-24T18:22:53Z" finished-at="2020-01-24T18:23:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciarLoja -->
-        <test-method status="PASS" signature="cadastroValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="cadastroValido" duration-ms="10028" started-at="2020-01-22T18:51:09Z" finished-at="2020-01-22T18:51:19Z">
+        <test-method status="PASS" signature="cadastroValido()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="cadastroValido" duration-ms="8200" started-at="2020-01-24T18:23:01Z" finished-at="2020-01-24T18:23:10Z">
           <reporter-output>
             <line>
               <![CDATA[Aplicação Web Iniciada! (cadastro válido)]]>
@@ -104,15 +158,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- cadastroValido -->
-        <test-method status="PASS" signature="FecharNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="FecharNavegador" is-config="true" duration-ms="47" started-at="2020-01-22T18:51:19Z" finished-at="2020-01-22T18:51:19Z">
+        <test-method status="PASS" signature="FecharNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="FecharNavegador" is-config="true" duration-ms="51" started-at="2020-01-24T18:23:10Z" finished-at="2020-01-24T18:23:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FecharNavegador -->
-        <test-method status="PASS" signature="IniciarLoja()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="IniciarLoja" is-config="true" duration-ms="9240" started-at="2020-01-22T18:51:49Z" finished-at="2020-01-22T18:51:58Z">
+        <test-method status="PASS" signature="IniciarLoja()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="IniciarLoja" is-config="true" duration-ms="9145" started-at="2020-01-24T18:23:39Z" finished-at="2020-01-24T18:23:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciarLoja -->
-        <test-method status="PASS" signature="cadastroComEmailInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="cadastroComEmailInvalido" duration-ms="5866" started-at="2020-01-22T18:51:58Z" finished-at="2020-01-22T18:52:04Z">
+        <test-method status="PASS" signature="cadastroComEmailInvalido()[pri:1, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="cadastroComEmailInvalido" duration-ms="5951" started-at="2020-01-24T18:23:48Z" finished-at="2020-01-24T18:23:54Z">
           <reporter-output>
             <line>
               <![CDATA[Aplicação Web Iniciada! (cadastro inválido)]]>
@@ -125,33 +179,57 @@
             </line>
           </reporter-output>
         </test-method> <!-- cadastroComEmailInvalido -->
-        <test-method status="PASS" signature="FecharNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@66a3ffec]" name="FecharNavegador" is-config="true" duration-ms="4345" started-at="2020-01-22T18:52:04Z" finished-at="2020-01-22T18:52:08Z">
+        <test-method status="PASS" signature="FecharNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.Register_TC@604ed9f0]" name="FecharNavegador" is-config="true" duration-ms="50" started-at="2020-01-24T18:23:54Z" finished-at="2020-01-24T18:23:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FecharNavegador -->
       </class> <!-- br.com.rsinet.hub_tdd.automation.Register_TC -->
       <class name="br.com.rsinet.hub_tdd.automation.SearchByImage_TC">
-        <test-method status="PASS" signature="IniciaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="IniciaNavegador" is-config="true" duration-ms="9187" started-at="2020-01-22T18:51:34Z" finished-at="2020-01-22T18:51:43Z">
+        <test-method status="PASS" signature="IniciaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="IniciaNavegador" is-config="true" duration-ms="9181" started-at="2020-01-24T18:23:24Z" finished-at="2020-01-24T18:23:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciaNavegador -->
-        <test-method status="PASS" signature="SearchByImageValid()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="SearchByImageValid" duration-ms="5742" started-at="2020-01-22T18:51:43Z" finished-at="2020-01-22T18:51:48Z">
+        <test-method status="PASS" signature="SearchByImageValid()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="SearchByImageValid" duration-ms="5880" started-at="2020-01-24T18:23:33Z" finished-at="2020-01-24T18:23:39Z">
           <reporter-output>
+            <line>
+              <![CDATA[Aplicação Web Iniciada! (Pesquisa por imagem válida)
+]]>
+            </line>
+            <line>
+              <![CDATA[Produto correto encontrado!
+]]>
+            </line>
+            <line>
+              <![CDATA[Finalizando pesquisa por imagem válida
+]]>
+            </line>
           </reporter-output>
         </test-method> <!-- SearchByImageValid -->
-        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="FechaNavegador" is-config="true" duration-ms="51" started-at="2020-01-22T18:51:48Z" finished-at="2020-01-22T18:51:49Z">
+        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="FechaNavegador" is-config="true" duration-ms="47" started-at="2020-01-24T18:23:39Z" finished-at="2020-01-24T18:23:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FechaNavegador -->
-        <test-method status="PASS" signature="IniciaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="IniciaNavegador" is-config="true" duration-ms="9304" started-at="2020-01-22T18:52:21Z" finished-at="2020-01-22T18:52:30Z">
+        <test-method status="PASS" signature="IniciaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="IniciaNavegador" is-config="true" duration-ms="9172" started-at="2020-01-24T18:24:06Z" finished-at="2020-01-24T18:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IniciaNavegador -->
-        <test-method status="PASS" signature="SearchByImageInvalid()[pri:1, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="SearchByImageInvalid" duration-ms="5312" started-at="2020-01-22T18:52:30Z" finished-at="2020-01-22T18:52:35Z">
+        <test-method status="PASS" signature="SearchByImageInvalid()[pri:1, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="SearchByImageInvalid" duration-ms="5359" started-at="2020-01-24T18:24:16Z" finished-at="2020-01-24T18:24:21Z">
           <reporter-output>
+            <line>
+              <![CDATA[Aplicação Web Iniciada! (Pesquisa por imagem inválida)
+]]>
+            </line>
+            <line>
+              <![CDATA[Produto diferente encontrado!
+]]>
+            </line>
+            <line>
+              <![CDATA[Finalizando pesquisa por imagem inválida
+]]>
+            </line>
           </reporter-output>
         </test-method> <!-- SearchByImageInvalid -->
-        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@1e88b3c]" name="FechaNavegador" is-config="true" duration-ms="44" started-at="2020-01-22T18:52:35Z" finished-at="2020-01-22T18:52:35Z">
+        <test-method status="PASS" signature="FechaNavegador()[pri:0, instance:br.com.rsinet.hub_tdd.automation.SearchByImage_TC@685cb137]" name="FechaNavegador" is-config="true" duration-ms="48" started-at="2020-01-24T18:24:21Z" finished-at="2020-01-24T18:24:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FechaNavegador -->

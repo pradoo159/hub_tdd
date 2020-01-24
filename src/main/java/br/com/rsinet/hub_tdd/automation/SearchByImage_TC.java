@@ -3,6 +3,7 @@ package br.com.rsinet.hub_tdd.automation;
 import static org.testng.Assert.assertEquals;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -37,14 +38,14 @@ public class SearchByImage_TC {
 	public static void SearchByImageValid() throws Exception{
 		
 		DriverFactory.abrirSite(driver);	
-		
+		Reporter.log("Aplicação Web Iniciada! (Pesquisa por imagem válida)\n");
 		SearchByImage_Action.ExecuteValid(driver);
-		
+		Reporter.log("Produto correto encontrado!\n");
 		String tituloTablet = Products_Page.title_Product(driver).getText();
 		String produtoClicado = Data.nomeTablet().toUpperCase();
 		
 		assertEquals(tituloTablet.equals(produtoClicado), true);
-		
+		Reporter.log("Finalizando pesquisa por imagem válida\n");
 		Print_Func.captureScreenShot(driver, "pesquisa_por_imagem_valida");
 	}
 	
@@ -54,15 +55,15 @@ public class SearchByImage_TC {
 	public static void SearchByImageInvalid() throws InterruptedException{
 		
 		DriverFactory.abrirSite(driver);
-		
+		Reporter.log("Aplicação Web Iniciada! (Pesquisa por imagem inválida)\n");
 		String txtNotebookHome = Home_Page.txt_NotebookInvalid(driver).getText();
 		
 		SearchByImage_Action.ExecuteInvalid(driver);
-		
+		Reporter.log("Produto diferente encontrado!\n");
 		String txtNotebookProduct = Products_Page.title_Product(driver).getText();
 		
 		assertEquals(txtNotebookHome.contentEquals(txtNotebookProduct), false);
-		
+		Reporter.log("Finalizando pesquisa por imagem inválida\n");
 		Print_Func.captureScreenShot(driver, "pesquisa_por_imagem_invalida");
 	}
 	

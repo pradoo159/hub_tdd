@@ -5,6 +5,12 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+/*
+ * 
+ * Fabrica de drivers
+ * 
+ */
+
 public class DriverFactory {
 
 	public static WebDriver iniciaChrome() {
@@ -27,6 +33,7 @@ public class DriverFactory {
 	public static void FechaChrome(WebDriver driver) {
 		if(driver != null)
 			driver.close();
+		
 
 	}
 

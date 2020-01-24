@@ -8,7 +8,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import br.com.rsinet.hub_tdd.pageObject.Home_Page;
 import br.com.rsinet.hub_tdd.pageObject.LogIn_Page;
 import br.com.rsinet.hub_tdd.pageObject.Register_Page;
-import br.com.rsinet.hub_tdd.util.Log;
 import br.com.rsinet.hub_tdd.util.Print_Func;
 public class Register_Action {
 	
@@ -16,14 +15,12 @@ public class Register_Action {
 	public static void ExecuteValid(WebDriver driver, String user, String email) {
 
 		Home_Page.lnk_LogIn(driver).click();
-		Log.info("Clicando no link login");
 
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.elementToBeClickable(LogIn_Page.lnk_CreateAccount(driver)));
 
 		JavascriptExecutor executor = (JavascriptExecutor) driver;
 		executor.executeScript("arguments[0].click();", LogIn_Page.lnk_CreateAccount(driver));
-		Log.info("clique em create account");
 
 		wait.until(ExpectedConditions.visibilityOf(Register_Page.txtbx_UserName(driver)));
 
